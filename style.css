@@ -1,0 +1,18 @@
+    .circle {
+      width: 50px;
+      height: 50px;
+      background-color: red;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin: 10px; /* Margem menor entre os círculos */
+    }
+    .margin {
+        margin: 100px 10px 15px 180px
+    }
+    .row {
+      display: flex;
+      justify-content: center; /* Centralizar a linha */
+    }
+    
